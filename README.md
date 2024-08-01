@@ -7,6 +7,9 @@ Anime4KEncoding adalah sebuah aplikasi Python untuk meningkatkan resolusi video 
 
 **[Download Prebuild Windows Versi Terbaru](https://github.com/Arifmaulanaazis/Anime4KEncoding/releases)**
 
+## Shader yang Digunakan
+Aplikasi ini menggunakan shader dari **[Anime4K](https://github.com/bloc97/Anime4K)** yang dikembangkan oleh **block97**. Anime4K adalah teknik upscaling yang dirancang khusus untuk anime, yang memanfaatkan shader untuk meningkatkan detail visual dan kejelasan tanpa mengorbankan performa. Shader dari Anime4K memberikan kualitas tinggi dalam proses upscaling dengan tetap mempertahankan estetika asli dari konten anime.
+
 ## Fitur Utama
 - Upscaling video anime.
 - Mendukung pengkodean ulang video dengan mode dan resolusi yang dapat disesuaikan.
