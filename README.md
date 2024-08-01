@@ -1,7 +1,11 @@
+---
+
 # Anime4KEncoding
 
 ## Deskripsi
 Anime4KEncoding adalah sebuah aplikasi Python untuk meningkatkan resolusi video anime dan kemudian mengkodeknya kembali. Aplikasi ini memungkinkan pengguna untuk mengatur mode optimalisasi dan resolusi output.
+
+**[Download Prebuild Windows](https://github.com/Arifmaulanaazis/Anime4KEncoding/releases)**
 
 ## Fitur Utama
 - Upscaling video anime.
@@ -25,3 +29,5 @@ Anda dapat berkontribusi pada proyek ini dengan mengirimkan pull request melalui
 
 ## Lisensi
 Proyek ini dilisensikan di bawah lisensi GNU General Public License v3.0 (GPL-3.0). Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
+
+---
