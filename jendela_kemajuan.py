@@ -94,15 +94,3 @@ class EventFilter(QtCore.QObject):
         font.setPointSizeF(min(self.progressBar.height() * 0.5, 80))
         self.progressBar.setFont(font)
 
-
-"""
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    percentage = 50
-    customText = "Halo"
-    progressWidget = ProgressBarWidget()
-    progressWidget.setPercentage(percentage, customText)
-    progressWidget.show()
-    sys.exit(app.exec_())
-"""
