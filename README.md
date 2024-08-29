@@ -2,6 +2,13 @@
 
 # Anime4KEncoding
 
+<div align="center">
+    <img src="https://img.shields.io/github/v/release/Arifmaulanaazis/Anime4KEncoding" alt="GitHub release version">
+    <img src="https://img.shields.io/github/release-date/Arifmaulanaazis/Anime4KEncoding" alt="GitHub Release Date">
+    <img src="https://img.shields.io/github/last-commit/Arifmaulanaazis/Anime4KEncoding" alt="GitHub last commit">
+    <img src="https://img.shields.io/github/downloads/Arifmaulanaazis/Anime4KEncoding/total" alt="GitHub Download count">
+</div>
+
 ## Deskripsi
 Anime4KEncoding adalah sebuah aplikasi Python untuk meningkatkan resolusi video anime dan kemudian mengkodeknya kembali. Aplikasi ini memungkinkan pengguna untuk mengatur mode optimalisasi dan resolusi output.
 
