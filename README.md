@@ -38,6 +38,6 @@ Aplikasi ini menggunakan shader dari **[Anime4K](https://github.com/bloc97/Anime
 Anda dapat berkontribusi pada proyek ini dengan mengirimkan pull request melalui GitHub.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah lisensi GNU General Public License v3.0 (GPL-3.0). Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah lisensi Massachusetts Institute of Technology (MIT). Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ---
