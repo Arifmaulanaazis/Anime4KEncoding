@@ -1,5 +1,3 @@
----
-
 # Anime4KEncoding
 
 <p align="center">
