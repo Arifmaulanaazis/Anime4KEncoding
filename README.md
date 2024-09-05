@@ -2,6 +2,9 @@
 
 # Anime4KEncoding
 
+<p align="center">
+  <img src="window.png" alt="Q-VS Icon" style="object-fit: cover;">
+</p>
 <div align="center">
     <img src="https://img.shields.io/github/v/release/Arifmaulanaazis/Anime4KEncoding" alt="GitHub release version">
     <img src="https://img.shields.io/github/release-date/Arifmaulanaazis/Anime4KEncoding" alt="GitHub Release Date">
